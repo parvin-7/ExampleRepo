@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hey this is the first repo index text file in the first ever repository
+=======
+Hello this is the first repo index text file.
+>>>>>>> 27a549810ad095e10f16e1e6ddc7e85ce74df078
